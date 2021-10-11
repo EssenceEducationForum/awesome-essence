@@ -1,4 +1,5 @@
 # awesome-essence
+![EEF - Essence Education Forum](eef-logo.png)
 
 ## Books
 
