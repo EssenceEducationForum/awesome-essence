@@ -33,7 +33,7 @@
 
 - **[Scrum Essentials Cards: Experiences of Scrum Teams Improving with Essence](https://queue.acm.org/detail.cfm?id=3418775)** - A series of examples and case studies on how people have used the Scrum Essentials cards to benefit their teams and improve how they work. Scrum is one of the most popular agile frameworks used successfully all over the world. Today all our Scrum training is accompanied by a set of cards designed using the Essence standard, which has given us a better Scrum (2020).  https://doi.org/10.1145/3411757.3418775 | [BibTex-ID: Sutherland.2020](EssenceRepository.bib)
 
-- **[A Web-based modeling tool for the SEMAT Essence theory of software engineering](https://doi.org/10.5334/jors.ad)** - SEMAT Accelerator (SematAcc) is a Web-positioning tool for a software engineering endeavor, which implements the SEMAT’s Essence kernel. SematAcc permits the use of Essence, thus helping to understand it. The tool enables the teaching, adoption, and research of Essence in controlled experiments and case studies. https://doi.org/10.5334/jors.ad | [Researchgate](https://www.researchgate.net/publication/256385429_A_Web-based_modeling_tool_for_the_SEMAT_Essence_theory_of_software_engineering) | [BibTex-ID: Graziotin.2013](EssenceRepository.bib)
+- <a name="semat-acc"></a>**[A Web-based modeling tool for the SEMAT Essence theory of software engineering](https://doi.org/10.5334/jors.ad)** - SEMAT Accelerator (SematAcc) is a Web-positioning tool for a software engineering endeavor, which implements the SEMAT’s Essence kernel. SematAcc permits the use of Essence, thus helping to understand it. The tool enables the teaching, adoption, and research of Essence in controlled experiments and case studies. https://doi.org/10.5334/jors.ad | [Researchgate](https://www.researchgate.net/publication/256385429_A_Web-based_modeling_tool_for_the_SEMAT_Essence_theory_of_software_engineering) | [BibTex-ID: Graziotin.2013](EssenceRepository.bib)
 
 
 ## Papers published at conferences and workshops
@@ -50,6 +50,12 @@
 
 ## Games
 ## Tooling
+
+**[Agile Practices Workbench | Agile Development Tools](https://www.ivarjacobson.com/esswork-practice-workbench)** - The Practice Workbench is a development environment for composing, authoring, collaborating and managing software development practices and methods. [...] makes it easy to author and deploy practices based on the OMG standard Essence language and kernel. 
+
+**[SematAcc](https://github.com/s4fs/sematacc)** - SEMAT Accelerator (a.k.a. SematAcc) is a web positioning system for SEMAT Essence Theory of Software Engineering. The paper *["A Web-based modeling tool for the SEMAT Essence theory of software engineering"](#semat-acc)* describes this tool.
+
+
 ## ...
 
 # CONTRIBUTING
