@@ -48,3 +48,6 @@
 ## Tooling
 ## ...
 
+
+# CONTRIBUTING
+Please see [CONTRIBUTING](https://github.com/EssenceEducationForum/awesome-essence/blob/main/.github/CONTRIBUTING.md) for details.
