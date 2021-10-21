@@ -33,6 +33,9 @@
 
 - **[Scrum Essentials Cards: Experiences of Scrum Teams Improving with Essence](https://queue.acm.org/detail.cfm?id=3418775)** - A series of examples and case studies on how people have used the Scrum Essentials cards to benefit their teams and improve how they work. Scrum is one of the most popular agile frameworks used successfully all over the world. Today all our Scrum training is accompanied by a set of cards designed using the Essence standard, which has given us a better Scrum (2020).  https://doi.org/10.1145/3411757.3418775 | [BibTex-ID: Sutherland.2020](EssenceRepository.bib)
 
+- **[A Web-based modeling tool for the SEMAT Essence theory of software engineering](https://doi.org/10.5334/jors.ad)** - SEMAT Accelerator (SematAcc) is a Web-positioning tool for a software engineering endeavor, which implements the SEMAT’s Essence kernel. SematAcc permits the use of Essence, thus helping to understand it. The tool enables the teaching, adoption, and research of Essence in controlled experiments and case studies. https://doi.org/10.5334/jors.ad | [Researchgate](https://www.researchgate.net/publication/256385429_A_Web-based_modeling_tool_for_the_SEMAT_Essence_theory_of_software_engineering) | [BibTex-ID: Graziotin.2013](EssenceRepository.bib)
+
+
 ## Papers published at conferences and workshops
 
 - **[1st International Workshop on Essence in Education & Training (WEE&T2020)](https://doi.org/10.1109/cseet49119.2020.9206202)** - This workshop facilitates the adoption by sharing experiences, best practices, and lessons learned (2020). https://doi.org/10.1109/cseet49119.2020.9206202 | [Researchgate](https://www.researchgate.net/publication/346442678_1st_International_Workshop_on_Essence_in_Education_Training_WEET_2020) | [BibTex-ID: Castro.2020](EssenceRepository.bib)
