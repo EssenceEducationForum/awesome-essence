@@ -1,5 +1,5 @@
 # Awesome Essence
-![EEF - Essence Education Forum](eef-logo.png)
+![EEF - Essence Education Forum](/assets/images/eef-logo.png)
 
 *An awesome list of references for SEMAT Essence collected by members of the Essence Education Forum :point_right: [forum.essenceineducation.org](https://forum.essenceineducation.org)*. Besides the list below you find a [BibTex](https://www.bibtex.com/g/bibtex-format/) file containing all entries for your convenience at writing your paper or thesis. The BibTex-ID at each entry provides you with the assigned citekey.
 
@@ -13,6 +13,7 @@
     - [Videos and recordings](#videos-and-recordings)
     - [Games](#games)
     - [Tooling](#tooling)
+- [Contributing](#contributing)
 
 ## Books
 
@@ -41,13 +42,12 @@
 - **[Better Scrum with Essence – An Introduction to the Essence Cards](https://www.youtube.com/watch?v=xHSmsz2YAOY)** - This video presents how the Essence cards applied to Scrum makes Scrum better without changing its intent. This video is also a more human presentation of the {ACM} Queue article: ‘Scrum Essentials Cards – Experiences of Scrum Teams Improving with Essence’ by Jeff Sutherland, Ivar Jacobson and Brian Kerr (2020). | [BibTex-ID: IJI.2020](EssenceRepository.bib)
 
 ## Courses
-
+*Public courses you may visit.*
 - **[Certified Essence-In-Use Practitioner Training](https://leanpub.com/c/essence)** - Do you want to become an expert fast? Get certified in the use of the new software engineering Essence framework.  A practical and proven problem-solving tool (2021). | [BibTex-ID: McMahon.2021](EssenceRepository.bib)
 
 ## Games
 ## Tooling
 ## ...
-
 
 # CONTRIBUTING
 Please see [CONTRIBUTING](https://github.com/EssenceEducationForum/awesome-essence/blob/main/.github/CONTRIBUTING.md) for details.
